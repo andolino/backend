@@ -1,1 +1,1 @@
-<h3>Profile</h3>
+<h3>Profiles</h3>
